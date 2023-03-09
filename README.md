@@ -26,6 +26,6 @@ Using the above dataframes, csv files are created. Then Database diagram is desi
 
 
 ### Resources
-The resources used for this projects are the two excel data sheets : *crowdfunding.xlsx and contacts.xlsx*.
-The resource files are inside the 'Resource' folder. The new cleaned csv files are also inside this folder.
+The resources used for this projects are two excel data sheets : *crowdfunding.xlsx and contacts.xlsx*.
+The resource files are inside the 'Resource' folder. The new cleaned csv files are also saved inside this folder.
 
