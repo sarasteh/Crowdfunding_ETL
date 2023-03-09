@@ -15,8 +15,17 @@ In this project, I create an ETL pipeline using Python, Pandas to extract/transf
 ![Create the contacts DataFrame](/images/contacts.jpg)
 
 
-### Resources
+### Create the Crowdfunding Database
+Using the above dataframes, csv files are created. Then Database diagram is designed and schema is generated as follows:
 
+- > #### crowdfunding Database Diagram
+![Create the DB Diagram](/images/crowdfunding_sql_diagram.png)
+
+- > #### crowdfunding Database Schema
+![Create the DB schema](/images/schema_picture.jpg)
+
+
+### Resources
 The resources used for this projects are the two excel data sheets : *crowdfunding.xlsx and contacts.xlsx*.
-The resource files are inside the 'Resource' folder. 
+The resource files are inside the 'Resource' folder. The new cleaned csv files are also inside this folder.
 
